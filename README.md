@@ -8,5 +8,7 @@ To install dependencies and start the development server, run the following comm
 npm install
 npm run dev
 ```
-### website brief
+### website Preview
+![Website Preview](https://github.com/yancy-wang/personal_website/blob/main/website_fig.png?raw=true)
+
 
