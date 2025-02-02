@@ -93,7 +93,9 @@ export const Banner = () => {
                     deconstruct as much as you will and whatever -you will, but
                     in your everyday life, play the predominant social game!"
                   </p>
-                  <button onClick={() => console.log("connect")}>
+                  <button 
+                    onClick={() => window.open('https://www.linkedin.com/in/yangyang-wang-8713a7277/', '_blank')}
+                  >
                     Let’s Connect <ArrowRightCircle size={25} />
                   </button>
                 </div>
